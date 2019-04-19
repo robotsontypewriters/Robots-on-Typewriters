@@ -1,0 +1,342 @@
+Expertise
+
+    Knowledgeable
+
+  Recommendation
+
+    . . . Between possibly reject and neutral; 2.5
+
+  1AC: The Meta-Review
+
+    EDITORIAL SCORE: 2.5
+    All reviewers commented on the importance and timeliness of the work presented.
+    However, reviewers were split on if the paper is ready for publication in its
+    current form.  In particular, R1 is highly positive on the work and expresses the
+    importance of the work and how this paper can make an impact on future directions
+    for design of voice assistants.
+
+    Overall, reviewers had issues with stemming from a lack of engagement with related
+    work.  R4 and R3 felt that the authors could do a better job relating the findings
+    to other HCI research, while R2 feels more work from the communication literature
+    needs to be addressed. Perhaps an additional emphasis on the prior work will make
+    it more clear regarding the novelty around conversation properties and that the
+    goal of this work was not developing conversational properties but to emphasize
+    the innate differences between the two types of conversations.
+
+    R2, R4 and R1 all raise the problem of context, and how the usage of assistants in
+    different environments may affect user perception. However, they disagree on the
+    type of context and the severity of the problem. R1 stresses that the chosen user
+    population covers a portion of potential users (technically savvy adults) and the
+    results may not generalize. R2 focuses on the environmental context of use. I
+    believe this is another example how a stronger related work section could
+    strengthen the paper. The context in which all these assistants are normally used
+    and their use cases are fairly well-known [2,3,4,5]. All these assistants are
+    personal as opposed to publicly deployed in a school/hospital, etc. As such the
+    two different environments for using an assistant could be seen as private vs
+    public -- a concept somewhat touched upon in prior work [1]. R4 mentions the
+    context of the task needed to be completed and if that would change the
+    contributions of the paper. Overall, I believe the authors need to address the
+    reviewers’ concerns regarding context in rebuttal.
+
+    I remind authors that there is an opportunity for an optional 5000 character
+    rebuttal to address any misunderstanding or factual errors in the review. Any
+    rebuttal should at a minimum address the issues presented above.
+    --------
+    [1] “Siri Talks at You”: An Empirical Investigation of Voice-Activated Personal
+    Assistant (VAPA) Usage by Individuals Who Are Blind. Ali Abdolrahmani, Ravi Kuber,
+    Stacy M. Branham. ASSETS'18. (See in particular pages 5,6,7 for usage in public /
+    in private)
+    [2] Understanding the Long-Term Use of Smart Speaker Assistants. Frank Bentley et
+    al. Ubicomp'18.
+    [3] Alexa, play some music: Categorization of Alexa Commands. Janice Y. Tsai et
+    al. Voice User Interfaces workshop at CHI'18.
+    [4] Hey Cortana! Exploring the use cases of a Desktop based Digital Assistant.
+    Rishabh Mehrotra et al. CAIR workshop at SIGIR'17.
+    [5] "Like Having a Really Bad PA": The Gulf between User Expectation and
+    Experience of Conversational Agents. Ewa Luger and Abigail Sellen. CHI'16.
+
+----------------------------------------------------------------
+
+2AC review
+score 1/5
+
+  Expertise
+
+    Expert
+
+  Recommendation
+
+    . . . Between reject and possibly reject; 1.5
+
+  Review
+
+    This submission aims to provide design guidelines for future intelligent personal
+    assistance (PSA) that can best facilitate human-agent conversations. Based on
+    interviews with 17 participants, the authors collected participants’ self-report
+    data that tells how people perceive the key characteristics and meanings of human
+    conversations. Derive from there, they examined which aspects of human
+    conversations could/should be transferred into the design of human-agent
+    conversations as indicated by the interviewees.
+
+    Admitting the importance of the research topic discussed here, I find the current
+    paper still needs a lot of rework before it can be published at the CHI
+    conference. The rest of this review outlines three of my major concerns of this
+    paper:
+
+    1. Part of the primary findings are simply confirmations of classical notions in
+    prior research. For example, the social vs. transactional purposes of
+    conversations has been discussed extensively by a huge body of communication
+    literature since decades ago. Different scholars may use different terminologies
+    (e.g., ritual instead of social, or informational instead of transactional), but
+    they deliver consistent ideas that are already backed up by rich empirical
+    evidence.
+
+    2. The current presentation of the method and result sections indicate a serious
+    overlook of the conversational context throughout the whole study. Most concepts
+    discussed in this paper, such as relationship and privacy, are highly context-
+    dependent. That is to say, people would have different interpretations and
+    expectations on how conversations would contribute to, for example, relationship
+    building under various situations. When a conversational agent was deployed in a
+    home vs. school vs. hospital environment, human interlocutors’ perception and
+    interaction with the agent will also be varied. The current findings seem imply
+    the authors either failed to include the contextual aspects of conversation in
+    their interview protocol, or completely missed those contextual factors in their
+    coding of the interview data.
+
+    3. When analyzing interview data regarding the purpose and attribution of
+    conversation with agents, the authors did not consider how each interviewee’s
+    previous experience of using Siri/Alexa/Google Assistant associates to their self-
+    report experience. It is therefore hard to estimate which part of the current
+    findings can (not) be transformed onto other populations and how.
+
+    Given the reasons above, I do not recommend the acceptance of this paper. I hope
+    the authors would find these comments helpful for improving their work in the
+    future.
+
+----------------------------------------------------------------
+
+2AC review
+score 2/5
+
+  Expertise
+
+    Knowledgeable
+
+  Recommendation
+
+    . . . Between possibly reject and neutral; 2.5
+
+  Review
+
+    This paper discusses an interview-based study exploring what are the differences
+    in human-human and human-agent based conversations and what people want out of
+    human-agent based conversations.
+
+    - Significance -
+    This work has a clear connection to human-agent conversation design. This is well
+    within the CHI domain. The paper's contributions lie in showing what people say is
+    important during a human-agent conversation and the authors claim that human-agent
+    conversation should be considered a different class of conversation. I generally
+    agree with this point, however, one thing that is interesting is that while a
+    human-human conversation is emergent, human-agent conversation is more explicitly
+    designed. I think that the authors could potentially discuss this difference.
+
+    - Originality -
+    I think that the main thing that is original in this work is to explore the
+    differences between human-human conversation and human-agent conversation. One
+    thing that could potentially make this contribution stronger is to present the
+    findings as comparisons rather than discussing human-human first and then human-
+    agent considerations. This might bring the focus on the comparison. As it is now,
+    much of the human-human conversation findings could have been derived from a
+    better engagement with prior work.
+
+    - Validity -
+    Semi-structured interview seems appropriate. The process was well described.
+
+    - Presentation Clarity -
+    The paper was generally easy to follow. As mentioned above, I wonder if the
+    author's contribution of a comparison might be better served by restructuring the
+    findings to go through each conversation attribute as a comparison.
+
+    - Relevant Prior Work -
+    I found the discussion around describing the facets of conversation to be lacking.
+    Others have provided references. One that I might add is:
+
+    Hugh Dubberly and Paul Pangaro. 2009. ON MODELING: What is conversation, and how
+    can we design for it?. interactions 16, 4 (July 2009), 22-28. DOI:
+    https://doi.org/10.1145/1551986.1551991
+
+    Overall, I found this paper to make a decent point that human-agent conversation
+    is different. However, as presented, I felt that the engagement with prior work
+    was lacking. The section on human-human conversation could have been understood
+    from prior literature. What may have been more interesting is the comparison that
+    people made. Perhaps presenting these results side-by-side in the same sections
+    might focus more on the comparison. Further, I felt that the discussion around
+    common ground felt a bit off. Arguably common ground is required for transactional
+    interactions as well. In some ways, this common ground for the simple transactions
+    we have today is just designed in. But, we can still see breakdowns if there is a
+    misalignment in the common ground of a user and a system. I actually felt that the
+    discussion of personalization in section 4.6 was still describing common ground.
+    Maybe the authors can better clarify why it is not.
+
+    Finally, I think that the work would benefit from discussion and comparison of
+    service-oriented conversations such as at a cashier or a service call. I think
+    that these conversations could be more insightful for current speech agents and I
+    am not so sure how different these service oriented conversations are from the
+    command-based interactions we have with speech agetns today. I would like to see
+    why service-oriented transactional human-human conversation is different enough
+    from huamn-agent conversation that huamn-agent conversation should be treated as a
+    different class of conversation. I think this point can be made, but I am not
+    currently seeing it with the provided information.
+
+----------------------------------------------------------------
+
+reviewer 1 review
+score 4/5
+
+  Expertise
+
+    Expert
+
+  Recommendation
+
+    Possibly Accept: I would argue for accepting this paper; 4.0
+
+  Review
+
+    The paper explores the characteristics of and the differences between human-to-
+    human and agent-to-human conversations. A particular emphasis is given to the
+    social aspect of the agent-to-human conversations. The researchers conducted semi-
+    structured interviews with 17 university students, where they asked the
+    participants about the purposes and characteristics of conversations with other
+    people in their lives, as well as how the participants perceived conversations
+    with smart digital assistants, such as Siri. The interviews were later analysed
+    using thematic analysis and were conducted until saturation was reached. The major
+    themes discussed throughout this work are: the purpose of a conversation, the
+    characteristics of a conversation, and building a relationship through a
+    conversation. The 3 aspects above were discussed in relation to conversations
+    between two people and between an agent and a person.
+
+    In particular, throughout their analysis, the authors juxtapose the mix of social
+    and transactional goals of human conversations to purely transactional ones of
+    human-agent interactions. Such notions as mutual understanding, trustworthiness,
+    and active listening in human conversations are opposed to personalisation,
+    functional trust (how well is my data preserved?), and speech recognition accuracy
+    in human-agent interactions. A sense of humour, while was seen as "fundamental" to
+    a good conversation between people, is considered a novelty feature in the agents'
+    implementation, and something that was hard-coded, rather than produced based on
+    the underlying discussion.
+
+    A possibility of building a relationship with an agent was rejected by the
+    participants, who emphasized the mismatch between the role of agents as "tools",
+    and characterized the relationship between a person and an agent as master-
+    servant. The participants also questioned the necessity of the agents having
+    social capabilities, with the exceptions of accommodating special user groups such
+    as elderly isolated people, or persons struggling with mental health issues.
+
+    ***
+
+    A conversation is considered the most natural form of interaction. In fact, Susan
+    Brennan is her work [1] states that is the most natural way to communicate when
+    the task complexity is highest. M. Porcheron et al. [2] question whether an
+    interaction between a person and an agent could qualify as a conversation since
+    the two are innately different in their nature. This work emphasizes that agents
+    are merely tools, and talking to them carries a functional role, as opposed to a
+    social one in the majority of cases. However, it also acknowledges that agents'
+    social capabilities can be beneficial for certain user groups, such as elderly and
+    isolated people, or people with mental health issues.
+
+    The current work focuses and shows on the innate differences between the two
+    interaction types. It sets the desired direction for further agents' development
+    by emphasizing the functional aspect of the agents valued by the general
+    population. The authors imply that the agents generally need not try and mimic a
+    person, but rather strive to widen their functional capabilities. The outcome of
+    the work puts in perspective recent developments of commercially available IPAs,
+    that are getting increasingly human-like speech, but still lack the desired
+    functionality.
+
+    ***
+
+    The main limitation of the paper is the audience chosen for the interviews, who
+    described themselves as advanced, intermediate, or experts with technology. People
+    who are further away from understanding how technology works may well perceive
+    IPAs as magic. Changing the population could likely produce different results. As
+    indicated in recent studies [3,4], users tend to anthropomorphize their devices.
+    This is especially true for certain user groups such as children and older adults.
+    I consider this aspect a limitation that should be mentioned in the "Limitations
+    and future work" section.
+
+    The paper is very well written and has a clear structure. The contributions are
+    clear, and the main themes can be easily traced throughout the text. The major
+    characteristics of the two types of interactions are clearly contrasted with one
+    another. The authors give a good overview of the major background research.
+
+    *References:
+    1. Susan Brennan. Conversation as direct manipulation: An iconoclastic view. 1990.
+    2. Martin Porcheron et al. Voice Interfaces in Everyday Life. 2018.
+    3. A Purington et al. Alexa is my new BFF: social roles, user satisfaction, and
+    personification of the amazon echo. 2017.
+    4. S. Yarosh. Children asking questions: speech interface reformulations and
+    personification preferences. 2017.
+
+----------------------------------------------------------------
+
+reviewer 3 review
+score 3/5
+
+  Expertise
+
+    Knowledgeable
+
+  Recommendation
+
+    Neutral: I am unable to argue for accepting or rejecting this paper; 3.0
+
+  Review
+
+    * Significance of the paper's contribution to HCI and the benefit that others can
+    gain from the contribution: why do the contribution and benefit matter?
+
+    The main findings  reported that people don't hold conversational agents to the
+    same kinds of expectations as other people is an important point.
+
+    The main conclusions are a bit murky. The opening of the paper suggests that
+    emphasis in design of IPAs may be misunderstanding subjective experience/judgment
+    about conversational quality w.r.t. human agent interaction. Very important point
+    that also draws into question the value of that goal. The findings are
+    confirmatory. Maybe the point is to maintain the difference people currently
+    recognize? Worth exploring that given what was found and the ongoing effort to
+    make IPA/ECA more human like.
+
+    * Originality of the work: what new ideas or approaches are introduced? We want to
+    emphasize that an acceptable paper must make a clear contribution to Human-
+    Computer Interaction;
+
+    The main conclusion is newsworthy given the HCI trends in this area reported in
+    ghe lit review.
+
+    * Validity of the work presented: how confidently can researchers and
+    practitioners use the results?
+
+    In regard to the main interpretations/themes of the interviews. Are these the
+    case? Makes sense on its face. Was it demonstrated? Hard to tell. The selection
+    and use of quotes may be based on systematic qualitative interpretation, might be
+    cherry picking. Can't tell from description of the method or especially from the
+    analysis. I hate to say but it feels journalistic: Assertion about theme  + 2
+    quotes and then quotes treated as self-evident. Add it all up to a main point and
+    then qualify with the known constraints for making general statements built into
+    the design of the study.
+
+    * Presentation clarity;
+
+    Very clearly written.
+
+    * Relevant previous work: is prior work adequately reviewed?
+
+    The citations to prior work in linguistics is impressive, the actual use of it and
+    engagement with it less so. For instance, Clark's sense of common ground is
+    technical in explaining fundamental interactional aspects of communicative
+    competence. The interviews report folk perpectives about common ground. Politeness
+    is a techical concept for Brown and Levinson that doesn't obviously translate to
+    the folk perspectives reported. And, so on... These types of references are
+    mentioned but not adequately engaged relative to findings and other HCI research.
