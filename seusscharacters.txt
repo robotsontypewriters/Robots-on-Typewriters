@@ -1,7 +1,8 @@
 Captain of the Guards
 Bartholomew Cubbins
 Executioner
-Father of Nadd & Father of the Father of Nadd
+Father of Nadd 
+Father of the Father of Nadd
 Grand Duke Wilfred
 King Derwin of Didd & King’s Magicians
 Nadd
@@ -16,7 +17,9 @@ Bell ringer
 Captain of the Guards
 Bartholomew Cubbins
 King Derwin of Didd & Kings Magicians
-Royal Cook, Royal Fiddlers, Royal Laundress & Royal Trumpeter
+Royal Cook
+Royal Fiddlers
+Royal Laundress & Royal Trumpeter
 Chief Yookeroo
 Daniel, the Kick-a-Poo Spaniel
 Grandpa
@@ -46,13 +49,20 @@ Queen of Quincy
 Rosy Robin Ross
 Silly Sammy Slick
 Uncle Ubb & Vera Violet Vinn
-Willy Waterloo, Waldo Woo & Warren Wiggins
+Willy Waterloo
+Waldo Woo
+Warren Wiggins
 Yoland Yorgenson
 Zizzer-Zazzer-Zuzz
-Biffer-Baum Birds & Bumble-Tub Club
-Chippendale Mupp, Collapsible Frink & Curious Crandalls
+Biffer-Baum Birds
+Bumble-Tub Club
+Chippendale Mupp
+Collapsible Frink
+Curious Crandalls
 Foona-Lagoona Baboona
-Herk-Heimer Sisters, Hinkle-Horn Honkers & Hopp-Soup-Snoop Group
+Herk-Heimer Sisters
+Hinkle-Horn Honkers
+Hopp-Soup-Snoop Group
 Ichabod
 Jedd
 Mr. Knox and Mrs. J. Carmichael
@@ -74,7 +84,10 @@ Zammers
 Dad
 Ed
 Jim
-Mouse, Mr. Brown, Mrs. Brown & Mr. Black
+Mouse
+Mr. Brown 
+Mrs. Brown 
+Mr. Black
 Ned
 Pat, Pop & Pup
 Red
@@ -89,10 +102,13 @@ Wickersham Brothers
 Better Hunch
 Down Hunch
 Four-Way Hunch
-Happy Hunch & Homework Hunch
+Happy Hunch
+Homework Hunch
 Munch Hunch
 Real Tough Hunch
-Sour Hunch, Spookish Hunch & Super Hunch
+Sour Hunch
+Spookish Hunch
+Super Hunch
 Up Hunch
 Very Odd Hunch
 Blindfolded Bowman from Brigger-ba-Root & Bolster
@@ -105,11 +121,22 @@ Lurch
 Morris McGurk & Mr. Sneelock
 Nolster
 Rolf the Walrus
-Sir Beers, Sir Bopps, Sir Dawkins, Sir Hawkins, Sir Hector, Sir Jawks, Sir Jeers, Sir Vector, Soobrian Snipe, Spotted Atrocious
-To-an-Fro Marchers & Through-horns-jumping Deer
+Sir Beers
+Sir Bopps
+Sir Dawkins
+Sir Hawkins
+Sir Hector
+Sir Jawks
+Sir Jeers
+Sir Vector
+Soobrian Snipe
+Spotted Atrocious
+To-an-Fro Marchers
+Through-horns-jumping Deer
 Wily Walloo
 Zoop-a-Zoop Troupe
-Bippo-No-Bungus & Bustard
+Bippo-No-Bungus 
+Bustard
 Chuggs
 Elephant-Cat
 Deer
@@ -137,7 +164,7 @@ Soapy Cooper
 Dinn
 East Beast & West Beast
 Finney, Fred & Fritz
-Fuddnudler Brothers (Bipper, Bud, Skipper, Jipper, Jeffrey, Jud, Horatio, Horace, Hendrix, Hud, Dinwoodie, Dinty, Dud, Fitsimmon, Frederick, Fud, Slinky, Stinkey, Stuart, Stud, & Lud)
+Fuddnudler Brothers
 Glotz & Grox
 Hooey, a Parrot
 Klotz
@@ -165,12 +192,31 @@ Zans, Zeds & Zeep
 Bellar & Bofa
 Dellar
 Findow
-Geeling, Gellar & Ghair
+Geeling
+Gellar 
+Ghair
 Jertain
-Nellar, Nink, Nooth Grush, Nupboard, Nureau & Nook Gase
+Nellar
+Nink
+Nooth Grush
+Nupboard
+Nureau 
+Nook Gase
 Quimney
 Tellar
 Vug
-Wasket, Wellar, Wocket & Woset
-Yeps, Yot & Yottle
-Zable, Zall, Zamp, Zelf, Zellar, Zillow, Zlock & Zower
+Wasket
+Wellar
+Wocket 
+Woset
+Yeps
+Yot 
+Yottle
+Zable
+Zall
+Zamp
+Zelf
+Zellar
+Zillow
+Zlock 
+Zower
