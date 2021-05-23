@@ -1,0 +1,675 @@
+﻿Spain,Ramón,Para llenarme de ti
+Austria,Tie Break,Du bist
+Norway,Knut Anders Sørum,High
+France,Jonatan Cerrada,À chaque pas
+Germany,Max Mutzke,Can't Wait Until Tonight
+Belgium,Xandee,1 Life
+Russia,Julia Savicheva,Believe Me
+Iceland,Jónsi,Heaven
+Ireland,Chris Doran,If My World Stopped Turning
+Poland,Blue Café,Love Song
+United Kingdom,James Fox,Hold On to Our Love
+Turkey,Athena,For Real
+Romania,Sanda,I Admit
+Sweden,Lena Philipsson,It Hurts
+Austria,Global.Kryner,Y así
+Lithuania,Laura & The Lovers,Little by Little
+Portugal,2B,Amar
+Moldova,Zdob și Zdub,Boonika bate doba
+Latvia,Walters & Kazha,The War Is Not Over
+Monaco,Lise Darly,Tout de moi
+Israel,Shiri Maimon,HaSheket SheNish'ar (השקט שנשאר)
+Belarus,Angelica Agurbash,Love Me Tonight
+Netherlands,Glennis Grace,My Impossible Dream
+Iceland,Selma,If I Had Your Love
+Belgium,Nuno Resende,Le grand soir
+Estonia,Suntribe,Let's Get Loud
+Norway,Wig Wam,In My Dreams
+Romania,Luminița Anghel & Sistem,Let Me Try
+Hungary,NOX,"Forogj, világ!"
+Finland,Geir Rönning,Why
+Macedonia,Martin Vučić,Make My Day
+Andorra,Marian van de Wal,La mirada interior
+Switzerland,Vanilla Ninja,Cool Vibes
+Croatia,Boris Novković feat. Lado Members,Vukovi umiru sami
+Bulgaria,Kaffe,Lorraine
+Ireland,Donna & Joe,Love?
+Slovenia,Omar Naber,Stop
+Denmark,Jakob Sveistrup,Talking to You
+Poland,Ivan & Delfin [pl],Czarna dziewczyna
+United Kingdom,Javine,Touch My Fire
+Malta,Chiara,Angel
+Turkey,Gülseren,Rimi Rimi Ley
+Albania,Ledina Çelo,Tomorrow I Go
+Cyprus,Constantinos Christoforou,Ela Ela
+Spain,Son de Sol,Brujería
+Serbia and Montenegro,No Name,Zauvijek moja (Заувијек моја)
+Sweden,Martin Stenmarck,Las Vegas
+Ukraine,GreenJolly,Razom nas bahato (Разом нас багато)
+Germany,Gracia,Run & Hide
+Greece,Helena Paparizou,My Number One
+Russia,Natalia Podolskaya,Nobody Hurt No One
+Bosnia and Herzegovina,Feminnem,Call Me
+France,Ortal,Chacun pense à soi
+Armenia,André,Without Your Love
+Bulgaria,Mariana Popova,Let Me Cry
+Slovenia,Anžej Dežan,Mr Nobody
+Andorra,Jenny,Sense tu
+Belarus,Polina Smolova,Mum
+Albania,Luiz Ejlli,Zjarr e ftohtë
+Belgium,Kate Ryan,Je t'adore
+Ireland,Brian Kennedy,Every Song Is a Cry for Love
+Cyprus,Annet Artani,Why Angels Cry
+Monaco,Séverine Ferrer,La Coco-Dance
+Macedonia,Elena Risteska,Ninanajna (Нинанајна)
+Poland,Ich Troje feat. Real McCoy,Follow My Heart
+Russia,Dima Bilan,Never Let You Go
+Turkey,Sibel Tüzün,Süper Star
+Ukraine,Tina Karol,Show Me Your Love
+Finland,Lordi,Hard Rock Hallelujah
+Netherlands,Treble,Amambanda
+Lithuania,LT United,We Are the Winners
+Portugal,Nonstop,Coisas de nada
+Sweden,Carola,Invincible
+Estonia,Sandra Oxenryd,Through My Window
+Bosnia and Herzegovina,Hari Mata Hari,Lejla
+Iceland,Silvia Night,Congratulations
+Switzerland,six4one,If We All Give a Little
+Moldova,Arsenium feat. Natalia Gordienko & Connect-R,Loca
+Israel,Eddie Butler,Together We Are One
+Latvia,Vocal Group Cosmos,I Hear Your Heart
+Norway,Christine Guldbrandsen,Alvedansen
+Spain,Las Ketchup,Un Blodymary
+Malta,Fabrizio Faniello,I Do
+Germany,Texas Lightning,No No Never
+Denmark,Sidsel Ben Semmane,Twist of Love
+Romania,Mihai Trăistariu,Tornerò
+United Kingdom,Daz Sampson,Teenage Life
+Greece,Anna Vissi,Everything
+France,Virginie Pouchain,Il était temps
+Croatia,Severina,Moja štikla
+Bulgaria,Elitsa Todorova & Stoyan Yankoulov,Water
+Israel,Teapacks,Push the Button
+Cyprus,Evridiki,"Comme ci, comme ça"
+Belarus,Dmitry Koldun,Work Your Magic
+Iceland,Eiríkur Hauksson,Valentine Lost
+Georgia,Sopho,Visionary Dream
+Montenegro,Stevan Faddy,"Ajde, kroči ('Ајде, крочи)"
+Switzerland,DJ BoBo,Vampires Are Alive
+Moldova,Natalia Barbu,Fight
+Netherlands,Edsilia Rombley,On Top of the World
+Albania,Frederik Ndoci,Hear My Plea
+Denmark,DQ,Drama Queen
+Croatia,Dragonfly feat. Dado Topić,Vjerujem u ljubav
+Poland,The Jet Set,Time to Party
+Serbia,Marija Šerifović,Molitva (Молитва)
+Czech Republic,Kabát,Malá dáma
+Portugal,Sabrina,Dança comigo
+Macedonia,Karolina,Mojot svet (Мојот свет)
+Norway,Guri Schanke,Ven a bailar conmigo
+Malta,Olivia Lewis,Vertigo
+Andorra,Anonymous,Salvem el món
+Hungary,Magdi Rúzsa,Unsubstantial Blues
+Estonia,Gerli Padar,Partners in Crime
+Belgium,The KMG's,LovePower
+Slovenia,Alenka Gotar,Cvet z juga
+Turkey,Kenan Doğulu,Shake It Up Şekerim
+Austria,Eric Papilaya,Get a Life – Get Alive
+Latvia,Bonaparti.lv,Questa notte
+Bosnia and Herzegovina,Marija Šestić,Rijeka bez imena (Ријека без имена)
+Spain,D'NASH,I Love You Mi Vida
+Ireland,Dervish,They Can't Stop the Spring
+Finland,Hanna Pakarinen,Leave Me Alone
+Lithuania,4Fun,Love or Leave
+Greece,Sarbel,Yassou Maria (Γειά σου Μαρία)
+Sweden,The Ark,The Worrying Kind
+France,Les Fatals Picards,L'amour à la française
+Russia,Serebro,Song #1
+Germany,Roger Cicero,Frauen regier'n die Welt
+Ukraine,Verka Serduchka,Dancing Lasha Tumbai (Данцінґ Лаша Тумбай)
+United Kingdom,Scooch,Flying the Flag (For You)
+Romania,Todomondo,"Liubi, Liubi, I Love You (Люби, Люби, I love you)"
+Armenia,Hayko,Anytime You Need
+Montenegro,Stefan Filipović,Zauvijek volim te (Заувијек волим те)
+Israel,Boaz,The Fire in Your Eyes
+Estonia,Kreisiraadio,Leto svet
+Moldova,Geta Burlacu,A Century of Love
+San Marino,Miodio,Complice
+Belgium,Ishtar,O Julissi
+Azerbaijan,Elnur & Samir,Day After Day
+Slovenia,Rebeka Dremelj,Vrag naj vzame
+Norway,Maria Haukaas Storeng,Hold On Be Strong
+Poland,Isis Gee,For Life
+Ireland,Dustin the Turkey,Irelande Douze Pointe
+Andorra,Gisela,Casanova
+Bosnia and Herzegovina,Laka,Pokušaj
+Armenia,Sirusho,"Qélé, Qélé (Քելե Քելե)"
+Netherlands,Hind,Your Heart Belongs to Me
+Finland,Teräsbetoni,Missä miehet ratsastaa
+Romania,Nico & Vlad,Pe-o margine de lume
+Russia,Dima Bilan,Believe
+Greece,Kalomira,Secret Combination
+Iceland,Euroband,This Is My Life
+Sweden,Charlotte Perrelli,Hero
+Turkey,Mor ve Ötesi,Deli
+Ukraine,Ani Lorak,Shady Lady
+Lithuania,Jeronimas Milius,Nomads in the Night
+Albania,Olta Boka,Zemrën e lamë peng
+Switzerland,Paolo Meneguzzi,Era stupendo
+Czech Republic,Tereza Kerndlová,Have Some Fun
+Belarus,Ruslan Alehno,Hasta la Vista
+Latvia,Pirates of the Sea,Wolves of the Sea
+Croatia,Kraljevi ulice & 75 Cents,Romanca
+Bulgaria,Deep Zone & Balthazar,"DJ, Take Me Away"
+Denmark,Simon Mathew,All Night Long
+Georgia,Diana Gurtskaya,Peace Will Come
+Hungary,Csézy,Candlelight
+Malta,Morena,Vodka
+Cyprus,Evdokia Kadi,Femme Fatale
+Macedonia,"Tamara, Vrčak & Adrijan",Let Me Love You
+Portugal,Vânia Fernandes,Senhora do mar (Negras águas)
+United Kingdom,Andy Abraham,Even If
+Germany,No Angels,Disappear
+Armenia,Sirusho,"Qele, qele (Քելե, քելե)"
+France,Sébastien Tellier,Divine
+Spain,Rodolfo Chikilicuatre,Baila el Chiki-chiki
+Serbia,Jelena Tomašević feat. Bora Dugić,Oro (Оро)
+Montenegro,Andrea Demirović,Just Get Out of My Life
+Czech Republic,Gipsy.cz,Aven Romale
+Belgium,Copycat,Copycat
+Belarus,Petr Elfimov,Eyes That Never Lie
+Sweden,Malena Ernman,La voix
+Armenia,Inga & Anush,Jan Jan (Ջան Ջան)
+Andorra,Susanne Georgi,La teva decisió (Get a Life)
+Switzerland,Lovebugs,The Highest Heights
+Turkey,Hadise,Düm Tek Tek
+Israel,Noa & Mira Awad,There Must Be Another Way
+Bulgaria,Krassimir Avramov,Illusion
+Iceland,Yohanna,Is It True?
+Macedonia,Next Time,Nešto što kje ostane (Нешто што ќе остане)
+Romania,Elena,The Balkan Girls
+Finland,Waldo's People,Lose Control
+Portugal,Flor-de-Lis,Todas as ruas do amor
+Malta,Chiara,What If We
+Bosnia and Herzegovina,Regina,Bistra voda
+Croatia,Igor Cukrov feat. Andrea,Lijepa Tena
+Ireland,Sinéad Mulvey & Black Daisy,Et Cetera
+Latvia,Intars Busulis,Probka (Пробка)
+Serbia,Marko Kon & Milaan,Cipela (Ципела)
+Poland,Lidia Kopania,I Don't Wanna Leave
+Norway,Alexander Rybak,Fairytale
+Cyprus,Christina Metaxa,Firefly
+Slovakia,Kamil Mikulčík & Nela Pocisková,Leť tmou
+Denmark,Brinck,Believe Again
+Slovenia,Quartissimo feat. Martina,Love Symphony
+Hungary,Zoli Ádok,Dance with Me
+Azerbaijan,AySel & Arash,Always
+Greece,Sakis Rouvas,This Is Our Night
+Lithuania,Sasha Son,Love
+Moldova,Nelly Ciobanu,Hora din Moldova
+Albania,Kejsi Tola,Carry Me in Your Dreams
+Ukraine,Svetlana Loboda,Be My Valentine! (Anti-Crisis Girl)
+Estonia,Urban Symphony,Rändajad
+Netherlands,The Toppers,Shine
+France,Patricia Kaas,Et s'il fallait le faire
+Russia,Anastasia Prikhodko,Mamo (Мамо)
+Germany,Alex Swings Oscar Sings!,Miss Kiss Kiss Bang
+United Kingdom,Jade Ewen,It's My Time
+Spain,Soraya Arnelas,La noche es para mí
+Moldova,SunStroke Project & Olia Tira,Run Away
+Russia,Peter Nalitch & Friends,Lost and Forgotten
+Estonia,Malcolm Lincoln,Siren
+Slovakia,Kristína,Horehronie
+Finland,Kuunkuiskaajat,Työlki ellää
+Latvia,Aisha,What For?
+Serbia,Milan Stanković,Ovo je Balkan (Oво je Балкан)
+Bosnia and Herzegovina,Vukašin Brajić,Thunder and Lightning
+Poland,Marcin Mroziński,Legenda
+Belgium,Tom Dice,Me and My Guitar
+Malta,Thea Garrett,My Dream
+Albania,Juliana Pasha,It's All About You
+Greece,Giorgos Alkaios & Friends,OPA (ΩΠΑ)
+Portugal,Filipa Azevedo,Há dias assim
+Macedonia,Gjoko Taneski,Jas ja imam silata (Јас ја имам силата)
+Belarus,3+2 feat. Robert Wells,Butterflies
+Iceland,Hera Björk,Je ne sais quoi
+Lithuania,InCulto,Eastern European Funk
+Armenia,Eva Rivas,Apricot Stone
+Israel,Harel Skaat,Milim (מילים)
+Denmark,Chanée & N'evergreen,In a Moment Like This
+Switzerland,Michael von der Heide,Il pleut de l'or
+Sweden,Anna Bergendahl,This Is My Life
+Azerbaijan,Safura,Drip Drop
+Ukraine,Alyosha,Sweet People
+Netherlands,Sieneke,Ik ben verliefd (Sha-la-lie)
+Romania,Paula Seling & Ovi,Playing with Fire
+Slovenia,Ansambel Žlindra & Kalamari,Narodnozabavni rock
+Ireland,Niamh Kavanagh,It's for You
+Bulgaria,Miro,Angel si ti (Ангел си ти)
+Cyprus,Jon Lilygreen & The Islanders,Life Looks Better in Spring
+Croatia,Feminnem,Lako je sve
+Georgia,Sofia Nizharadze,Shine
+Turkey,maNga,We Could Be the Same
+Spain,Daniel Diges,Algo pequeñito
+Norway,Didrik Solli-Tangen,My Heart Is Yours
+United Kingdom,Josh Dubovie,That Sounds Good to Me
+France,Jessy Matador,Allez Ola Olé
+Germany,Lena,Satellite
+Poland,Magdalena Tul,Jestem
+Norway,Stella Mwangi,Haba Haba
+Albania,Aurela Gaçe,Feel the Passion
+Armenia,Emmy,Boom Boom
+Turkey,Yüksek Sadakat,Live It Up
+Serbia,Nina,Čaroban (Чаробан)
+Russia,Alexey Vorobyov,Get You
+Switzerland,Anna Rossinelli,In Love for a While
+Georgia,Eldrine,One More Day
+Finland,Paradise Oskar,Da Da Dam
+Malta,Glen Vella,One Life
+San Marino,Senit,Stand By
+Croatia,Daria,Celebrate
+Iceland,Sjonni's Friends,Coming Home
+Hungary,Kati Wolf,What About My Dreams?
+Portugal,Homens da Luta,A luta é alegria
+Lithuania,Evelina Sašenko,C'est ma vie
+Azerbaijan,Ell & Nikki,Running Scared
+Greece,Loucas Giorkas feat. Stereo Mike,Watch My Dance
+Bosnia and Herzegovina,Dino Merlin,Love in Rewind
+Austria,Nadine Beiler,The Secret Is Love
+Netherlands,3JS,Never Alone
+Belgium,Witloof Bay,With Love Baby
+Slovakia,TWiiNS,I'm Still Alive
+Ukraine,Mika Newton,Angel
+Moldova,Zdob și Zdub,So Lucky
+Sweden,Eric Saade,Popular
+Cyprus,Christos Mylordos,San aggelos s'agapisa (Σαν άγγελος σ'αγάπησα)
+Bulgaria,Poli Genova,Na inat (На инат)
+Macedonia,Vlatko Ilievski,Rusinka (Русинкa)
+Israel,Dana International,Ding Dong (דינג דונג)
+Slovenia,Maja Keuc,No One
+Romania,Hotel FM,Change
+Estonia,Getter Jaani,Rockefeller Street
+Belarus,Anastasia Vinnikova,I Love Belarus
+Latvia,Musiqq,Angel in Disguise
+Denmark,A Friend in London,New Tomorrow
+Ireland,Jedward,Lipstick
+France,Amaury Vassili,Sognu
+Italy,Raphael Gualazzi,Madness of Love
+United Kingdom,Blue,I Can
+Germany,Lena,Taken by a Stranger
+Spain,Lucía Pérez,Que me quiten lo bailao
+Montenegro,Rambo Amadeus,Euro Neuro
+Iceland,Greta Salóme & Jónsi,Never Forget
+Greece,Eleftheria Eleftheriou,Aphrodisiac
+Latvia,Anmary,Beautiful Song
+Albania,Rona Nishliu,Suus
+Romania,Mandinga,Zaleilah
+Switzerland,Sinplus,Unbreakable
+Belgium,Iris,Would You?
+Finland,Pernilla,När jag blundar
+Israel,Izabo,Time
+San Marino,Valentina Monetta,The Social Network Song (Oh Oh – Uh – Oh Oh)
+Cyprus,Ivi Adamou,La La Love
+Denmark,Soluna Samay,Should've Known Better
+Russia,Buranovskiye Babushki,Party for Everybody
+Hungary,Compact Disco,Sound of Our Hearts
+Austria,Trackshittaz,Woki mit deim Popo
+Moldova,Pasha Parfeny,Lăutar
+Ireland,Jedward,Waterline
+Serbia,Željko Joksimović,Nije ljubav stvar (Није љубав ствар)
+Macedonia,Kaliopi,Crno i belo (Црно и бело)
+Netherlands,Joan Franka,You and Me
+Malta,Kurt Calleja,This Is the Night
+Belarus,Litesound,We Are the Heroes
+Portugal,Filipa Sousa,Vida minha
+Ukraine,Gaitana,Be My Guest
+Bulgaria,Sofi Marinova,Love Unlimited
+Slovenia,Eva Boto,Verjamem
+Croatia,Nina Badrić,Nebo
+Sweden,Loreen,Euphoria
+Georgia,Anri Jokhadze,I'm a Joker
+Turkey,Can Bonomo,Love Me Back
+Estonia,Ott Lepland,Kuula
+Slovakia,Max Jason Mai,Don't Close Your Eyes
+Norway,Tooji,Stay
+Bosnia and Herzegovina,Maya Sar,Korake ti znam
+Lithuania,Donny Montell,Love Is Blind
+United Kingdom,Engelbert Humperdinck,Love Will Set You Free
+France,Anggun,Echo (You and I)
+Italy,Nina Zilli,L'amore è femmina (Out of Love)
+Azerbaijan,Sabina Babayeva,When the Music Dies
+Spain,Pastora Soler,Quédate conmigo
+Germany,Roman Lob,Standing Still
+Austria,Natália Kelly,Shine
+Estonia,Birgit,Et uus saaks alguse
+Slovenia,Hannah,Straight into Love
+Croatia,Klapa s Mora,Mižerja
+Denmark,Emmelie de Forest,Only Teardrops
+Russia,Dina Garipova,What If
+Ukraine,Zlata Ognevich,Gravity
+Netherlands,Anouk,Birds
+Montenegro,Who See,Igranka (Игранка)
+Lithuania,Andrius Pojavis,Something
+Belarus,Alyona Lanskaya,Solayoh
+Moldova,Aliona Moon,O mie
+Ireland,Ryan Dolan,Only Love Survives
+Cyprus,Despina Olympiou,An me thimasai (Aν με θυμάσαι)
+Belgium,Roberto Bellarosa,Love Kills
+Serbia,Moje 3,Ljubav je svuda (Љубав је свуда)
+Latvia,PeR,Here We Go
+San Marino,Valentina Monetta,Crisalide (Vola)
+Macedonia,Esma & Lozano,Pred da se razdeni (Пред да се раздени)
+Azerbaijan,Farid Mammadov,Hold Me
+Finland,Krista Siegfrids,Marry Me
+Malta,Gianluca,Tomorrow
+Bulgaria,Elitsa Todorova & Stoyan Yankoulov,Samo shampioni (Само шампиони)
+Iceland,Eythor Ingi,Ég á líf
+Greece,Koza Mostra feat. Agathon Iakovidis,Alcohol Is Free
+Israel,Moran Mazor,Rak Bishvilo (רק בשבילו)
+Armenia,Dorians,Lonely Planet
+Hungary,ByeAlex,Kedvesem (Zoohacker Remix)
+Norway,Margaret Berger,I Feed You My Love
+Albania,Adrian Lulgjuraj & Bledar Sejko,Identitet
+Georgia,Nodi Tatishvili & Sophie Gelovani,Waterfall
+Switzerland,Takasa,You and Me
+Romania,Cezar,It's My Life
+France,Amandine Bourgeois,L'enfer et moi
+Spain,ESDM,Contigo hasta el final
+Germany,Cascada,Glorious
+United Kingdom,Bonnie Tyler,Believe in Me
+Sweden,Robin Stjernberg,You
+Italy,Marco Mengoni,L'essenziale
+Armenia,Aram MP3,Not Alone
+Latvia,Aarzemnieki,Cake to Bake
+Estonia,Tanja,Amazing
+Sweden,Sanna Nielsen,Undo
+Iceland,Pollapönk,No Prejudice
+Albania,Hersi,One Night's Anger
+Russia,Tolmachevy Sisters,Shine
+Azerbaijan,Dilara Kazimova,Start a Fire
+Ukraine,Mariya Yaremchuk,Tick-Tock
+Belgium,Axel Hirsoux,Mother
+Moldova,Cristina Scarlat,Wild Soul
+San Marino,Valentina Monetta,Maybe
+Portugal,Suzy,Quero ser tua
+Netherlands,The Common Linnets,Calm After the Storm
+Montenegro,Sergej Ćetković,Moj svijet (Мој свијет)
+Hungary,András Kállay-Saunders,Running
+Malta,Firelight,Coming Home
+Israel,Mei Finegold,Same Heart
+Norway,Carl Espen,Silent Storm
+Georgia,The Shin & Mariko,Three Minutes to Earth
+Poland,Donatan & Cleo,My Słowianie – We Are Slavic
+Austria,Conchita Wurst,Rise Like a Phoenix
+Lithuania,Vilija,Attention
+Finland,Softengine,Something Better
+Ireland,Can-linn feat. Kasey Smith,Heartbeat
+Belarus,Teo,Cheesecake
+Macedonia,Tijana,To the Sky
+Switzerland,Sebalter,Hunter of Stars
+Greece,Freaky Fortune feat. RiskyKidd,Rise Up
+Slovenia,Tinkara Kovač,Round and Round
+Romania,Paula Seling & Ovi,Miracle
+Germany,Elaiza,Is It Right
+France,Twin Twin,Moustache
+Italy,Emma,La mia città
+Spain,Ruth Lorenzo,Dancing in the Rain
+Denmark,Basim,Cliche Love Song
+United Kingdom,Molly,Children of the Universe
+Moldova,Eduard Romanyuta,I Want Your Love
+Armenia,Genealogy,Face the Shadow
+Belgium,Loïc Nottet,Rhythm Inside
+Netherlands,Trijntje Oosterhuis,Walk Along
+Finland,Pertti Kurikan Nimipäivät,Aina mun pitää
+Greece,Maria Elena Kyriakou,One Last Breath
+Estonia,Elina Born & Stig Rästa,Goodbye to Yesterday
+Macedonia,Daniel Kajmakoski,Autumn Leaves
+Serbia,Bojana Stamenov,Beauty Never Lies
+Hungary,Boggie,Wars for Nothing
+Belarus,Uzari & Maimuna,Time
+Russia,Polina Gagarina,A Million Voices
+Denmark,Anti Social Media,The Way You Are
+Albania,Elhaida Dani,I'm Alive
+Romania,Voltaj,De la capăt (All Over Again)
+Georgia,Nina Sublatti,Warrior
+Lithuania,Monika Linkytė & Vaidas Baumila,This Time
+Ireland,Molly Sterling,Playing with Numbers
+San Marino,Anita Simoncini & Michele Perniola,Chain of Lights
+Montenegro,Knez,Adio (Адио)
+Malta,Amber,Warrior
+Norway,Mørland & Debrah Scarlett,A Monster Like Me
+Portugal,Leonor Andrade,Há um mar que nos separa
+Czech Republic,Marta Jandová & Václav Noid Bárta,Hope Never Dies
+Israel,Nadav Guedj,Golden Boy
+Latvia,Aminata,Love Injected
+Azerbaijan,Elnur Hüseynov,Hour of the Wolf
+Iceland,Maria Olafs,Unbroken
+Sweden,Måns Zelmerlöw,Heroes
+Switzerland,Mélanie René,Time to Shine
+Cyprus,John Karayiannis,One Thing I Should Have Done
+Slovenia,Maraaya,Here for You
+Poland,Monika Kuszyńska,In the Name of Love
+France,Lisa Angell,N'oubliez pas
+United Kingdom,Electro Velvet,Still in Love with You
+Australia,Guy Sebastian,Tonight Again
+Austria,The Makemakes,I Am Yours
+Germany,Ann Sophie,Black Smoke
+Spain,Edurne,Amanecer
+Italy,Il Volo,Grande amore
+Finland,Sandhja,Sing It Away
+Greece,Argo,Utopian Land
+Moldova,Lidia Isac,Falling Stars
+Hungary,Freddie,Pioneer
+Croatia,Nina Kraljić,Lighthouse
+Netherlands,Douwe Bob,Slow Down
+Armenia,Iveta Mukuchyan,LoveWave
+San Marino,Serhat,I Didn't Know
+Russia,Sergey Lazarev,You Are the Only One
+Czech Republic,Gabriela Gunčíková,I Stand
+Cyprus,Minus One,Alter Ego
+Austria,Zoë,Loin d'ici
+Estonia,Jüri Pootsmann,Play
+Azerbaijan,Samra,Miracle
+Montenegro,Highway,The Real Thing
+Iceland,Greta Salóme,Hear Them Calling
+Bosnia and Herzegovina,Dalal & Deen feat. Ana Rucner & Jala,Ljubav je
+Malta,Ira Losco,Walk on Water
+Latvia,Justs,Heartbeat
+Poland,Michał Szpak,Color of Your Life
+Switzerland,Rykka,The Last of Our Kind
+Israel,Hovi Star,Made of Stars
+Belarus,Ivan,Help You Fly
+Serbia,Sanja Vučić ZAA,Goodbye (Shelter)
+Ireland,Nicky Byrne,Sunlight
+Macedonia,Kaliopi,Dona (Дона)
+Lithuania,Donny Montell,I've Been Waiting for This Night
+Australia,Dami Im,Sound of Silence
+Slovenia,ManuElla,Blue and Red
+Bulgaria,Poli Genova,If Love Was a Crime
+Denmark,Lighthouse X,Soldiers of Love
+Ukraine,Jamala,1944
+Norway,Agnete,Icebreaker
+Georgia,Nika Kocharov & Young Georgian Lolitaz,Midnight Gold
+Albania,Eneda Tarifa,Fairytale
+Belgium,Laura Tesoro,What's the Pressure
+Italy,Francesca Michielin,No Degree of Separation
+Sweden,Frans,If I Were Sorry
+Germany,Jamie-Lee,Ghost
+France,Amir,J'ai cherché
+Spain,Barei,Say Yay!
+United Kingdom,Joe & Jake,You're Not Alone
+Sweden,Robin Bengtsson,I Can't Go On
+Georgia,Tamara Gachechiladze,Keep the Faith
+Australia,Isaiah,Don't Come Easy
+Albania,Lindita,World
+Belgium,Blanche,City Lights
+Montenegro,Slavko Kalezić,Space
+Finland,Norma John,Blackbird
+Azerbaijan,Dihaj,Skeletons
+Portugal,Salvador Sobral,Amar pelos dois
+Greece,Demy,This Is Love
+Poland,Kasia Moś,Flashlight
+Moldova,SunStroke Project,"Hey, Mamma!"
+Iceland,Svala,Paper
+Czech Republic,Martina Bárta,My Turn
+Cyprus,Hovig,Gravity
+Armenia,Artsvik,Fly with Me
+Slovenia,Omar Naber,On My Way
+Latvia,Triana Park,Line
+Serbia,Tijana Bogićević,In Too Deep
+Austria,Nathan Trent,Running on Air
+Macedonia,Jana Burčeska,Dance Alone
+Malta,Claudia Faniello,Breathlessly
+Romania,Ilinca feat. Alex Florea,Yodel It!
+Netherlands,O'G3NE,Lights and Shadows
+Hungary,Joci Pápai,Origo
+Denmark,Anja,Where I Am
+Ireland,Brendan Murray,Dying to Try
+San Marino,Valentina Monetta & Jimmie Wilson,Spirit of the Night
+Croatia,Jacques Houdek,My Friend
+Norway,JOWST,Grab the Moment
+Switzerland,Timebelle,Apollo
+Belarus,Naviband,Story of My Life
+Bulgaria,Kristian Kostov,Beautiful Mess
+Lithuania,Fusedmarc,Rain of Revolution
+Estonia,Koit Toome & Laura,Verona
+Israel,Imri,I Feel Alive
+Italy,Francesco Gabbani,Occidentali's Karma
+Spain,Manel Navarro,Do It for Your Lover
+United Kingdom,Lucie Jones,Never Give Up on You
+Germany,Levina,Perfect Life
+Ukraine,O.Torvald,Time
+France,Alma,Requiem
+Azerbaijan,Aisel,X My Heart
+Iceland,Ari Ólafsson,Our Choice
+Albania,Eugent Bushpepa,Mall
+Belgium,Sennek,A Matter of Time
+Czech Republic,Mikolas Josef,Lie to Me
+Lithuania,Ieva Zasimauskaitė,When We're Old
+Israel,Netta,Toy
+Belarus,Alekseev,Forever
+Estonia,Elina Nechayeva,La forza
+Bulgaria,Equinox,Bones
+Macedonia,Eye Cue,Lost and Found
+Croatia,Franka,Crazy
+Austria,Cesár Sampson,Nobody but You
+Greece,Yianna Terzi,Oniro mou (Όνειρό μου)
+Finland,Saara Aalto,Monsters
+Armenia,Sevak Khanagyan,Qami (Քամի)
+Switzerland,ZiBBZ,Stones
+Ireland,Ryan O'Shaughnessy,Together
+Cyprus,Eleni Foureira,Fuego
+Norway,Alexander Rybak,That's How You Write a Song
+Romania,The Humans,Goodbye
+Serbia,Sanja Ilić & Balkanika,Nova deca (Нова деца)
+San Marino,Jessika feat. Jenifer Brening,Who We Are
+Denmark,Rasmussen,Higher Ground
+Russia,Julia Samoylova,I Won't Break
+Moldova,DoReDoS,My Lucky Day
+Netherlands,Waylon,Outlaw in 'Em
+Australia,Jessica Mauboy,We Got Love
+Georgia,Ethno-Jazz Band Iriao,For You
+Poland,Gromee feat. Lukas Meijer,Light Me Up
+Malta,Christabelle,Taboo
+Hungary,AWS,Viszlát nyár
+Latvia,Laura Rizzotto,Funny Girl
+Sweden,Benjamin Ingrosso,Dance You Off
+Montenegro,Vanja Radovanović,Inje (Иње)
+Slovenia,Lea Sirk,"Hvala, ne!"
+Ukraine,Mélovin,Under the Ladder
+Spain,Amaia & Alfred,Tu canción
+Portugal,Cláudia Pascoal,O jardim
+United Kingdom,SuRie,Storm
+Germany,Michael Schulte,You Let Me Walk Alone
+France,Madame Monsieur,Mercy
+Italy,Ermal Meta & Fabrizio Moro,Non mi avete fatto niente
+Cyprus,Tamta,Replay
+Montenegro,D mol,Heaven
+Finland,Darude feat. Sebastian Rejman,Look Away
+Poland,Tulia,Fire of Love (Pali się)
+Slovenia,Zala Kralj & Gašper Šantl,Sebi
+Czech Republic,Lake Malawi,Friend of a Friend
+Hungary,Joci Pápai,Az én apám
+Belarus,ZENA,Like It
+Serbia,Nevena Božović,Kruna (Круна)
+Belgium,Eliot,Wake Up
+Georgia,Oto Nemsadze,Keep on Going
+Australia,Kate Miller-Heidke,Zero Gravity
+Iceland,Hatari,Hatrið mun sigra
+Estonia,Victor Crone,Storm
+Portugal,Conan Osiris,Telemóveis
+Greece,Katerine Duska,Better Love
+San Marino,Serhat,Say Na Na Na
+Armenia,Srbuk,Walking Out
+Ireland,Sarah McTernan,22
+Moldova,Anna Odobescu,Stay
+Switzerland,Luca Hänni,She Got Me
+Latvia,Carousel,That Night
+Romania,Ester Peony,On a Sunday
+Denmark,Leonora,Love Is Forever
+Sweden,John Lundvik,Too Late for Love
+Austria,PÆNDA,Limits
+Croatia,Roko,The Dream
+Malta,Michela,Chameleon
+Lithuania,Jurij Veklenko,Run with the Lions
+Russia,Sergey Lazarev,Scream
+Albania,Jonida Maliqi,Ktheju tokës
+Norway,KEiiNO,Spirit in the Sky
+Netherlands,Duncan Laurence,Arcade
+North Macedonia,Tamara Todevska,Proud
+Azerbaijan,Chingiz,Truth
+Germany,S!sters,Sister
+Israel,Kobi Marimi,Home
+United Kingdom,Michael Rice,Bigger than Us
+France,Bilal Hassani,Roi
+Italy,Mahmood,Soldi
+Spain,Miki,La venda
+Lithuania,The Roop,Discoteque
+Slovenia,Ana Soklič,Amen
+Russia,Manizha,Russian Woman
+Sweden,Tusse,Voices
+Australia,Montaigne,Technicolour
+North Macedonia,Vasil,Here I Stand
+Ireland,Lesley Roy,Maps
+Cyprus,Elena Tsagrinou,El Diablo
+Norway,Tix,Fallen Angel
+Croatia,Albina,Tick-Tock
+Belgium,Hooverphonic,The Wrong Place
+Israel,Eden Alene,Set Me Free
+Romania,Roxen,Amnesia
+Azerbaijan,Efendi,Mata Hari
+Ukraine,Go_A,Shum (Шум)
+Malta,Destiny,Je me casse
+San Marino,Senhit feat Flo Rida,Adrenalina
+Estonia,Uku Suviste,The Lucky One
+Czech Republic,Benny Cristo,Omaga
+Greece,Stefania,Last Dance
+Austria,Vincent Bueno,Amen
+Poland,Rafał,The Ride
+Moldova,Natalia Gordienko,Sugar
+Iceland,Daði og Gagnamagnið,10 Years
+Serbia,Hurricane,Loco Loco
+Georgia,Tornike Kipiani,You
+Albania,Anxhela Peristeri,Karma
+Portugal,The Black Mamba,Love Is on My Side
+Bulgaria,Victoria,Growing Up Is Getting Old
+Finland,Blind Channel,Dark Side
+Latvia,Samanta Tīna,The Moon is Rising
+Switzerland,Gjon's Tears,Tout l'Univers
+Denmark,Fyr & Flamme,Øve os på hinanden
+United Kingdom,James Newman,Embers
+Spain,Blas Cantó,Voy a quedarme
+Germany,Jendrik,I Don't Feel Hate
+France,Barbara Pravi,Voilà
+Netherlands,Jeangu Macrooy,Birth of a New Age
+Italy,Måneskin,Zitti e buoni
+Artist,Language,Reason
+Aline Lahoud,French,Withdrew
+No Name,Montenegrin,Withdrew
+Stephane & 3G,English,Withdrew
+Anastasia Vinnikova,English,Disqualified
+No artist or song selected,No artist or song selected,Withdrew
+Ovidiu Anton,English,Disqualified
+Julia Samoylova,English,Withdrew
+No artist or song selected[ad],No artist or song selected[ad],Withdrew
+Galasy ZMesta,Russian,Disqualified
